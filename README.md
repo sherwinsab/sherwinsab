@@ -8,7 +8,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sherwin Sabu
 ====================================================================================================================================
 
-MCA Graduate
+Customer Engineer @ Zafin in Cloud Support 
 ------------
 
 Dynamic and results-driven Integrated MCA graduate with a proven track record in data science, web development, and machine learning. Driven by a passion for cloud technology, I've achieved the Oracle Cloud Data Management Associate-level certification. Possessing a strong foundation in data collection, cleaning, exploration, and analysis, complemented by expertise in Python, SQL, and ETL. Proficient in impactful data visualization using tools like Matplotlib, Seaborn, and Power BI. Adept at developing machine learning models encompassing regression, classification, and clustering techniques. Experienced in Django framework for web development and deployment, hosting projects on platforms like Railway.app and AWS. Demonstrated leadership, adaptability, and dedication through internships, certifications, and successful project deliveries. Seeking a challenging role to apply technical acumen in driving data-driven solutions and contributing to organizational success.
